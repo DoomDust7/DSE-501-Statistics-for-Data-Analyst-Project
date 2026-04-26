@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+streamlit
+plotly
+openpyxl
+tableauhyperapi
+nbformat
