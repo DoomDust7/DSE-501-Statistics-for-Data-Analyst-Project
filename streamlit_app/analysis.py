@@ -8,8 +8,10 @@ import statsmodels.api as sm
 import warnings
 warnings.filterwarnings("ignore")
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "air_quality_cleaned.csv")
-XLSX_PATH = "/Users/manavananthakumar/Downloads/Projects/AirQuality.xlsx"
+# All paths are relative to this file — works locally and on Streamlit Cloud
+_ROOT     = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_PATH = os.path.join(_ROOT, "data", "air_quality_cleaned.csv")
+XLSX_PATH = os.path.join(_ROOT, "data", "AirQuality.xlsx")
 
 SENSOR_PAIRS = {
     "CO":   ("CO(GT)",   "PT08.S1(CO)"),

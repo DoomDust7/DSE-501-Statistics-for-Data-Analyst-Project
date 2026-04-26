@@ -22,7 +22,7 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files (large — user provides AirQuality.xlsx separately)
+# Generated CSV (rebuilt at runtime from AirQuality.xlsx)
 data/air_quality_cleaned.csv
 
 # Tableau internals (keep .twbx only)
