@@ -4,6 +4,10 @@
 > **Dataset:** [UCI Air Quality](https://archive.ics.uci.edu/ml/datasets/Air+Quality) — 9,357 hourly observations · March 2004 – April 2005 · Italian urban site  
 > **Deliverables:** Jupyter Notebook · Streamlit Live Dashboard · Tableau Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doomdust7-dse-501-statistics-for-data-a-streamlit-appapp-qcrjkb.streamlit.app/)
+
+🚀 **[Live Dashboard → doomdust7-dse-501-statistics-for-data-a-streamlit-appapp-qcrjkb.streamlit.app](https://doomdust7-dse-501-statistics-for-data-a-streamlit-appapp-qcrjkb.streamlit.app/)**
+
 ---
 
 ## Table of Contents
